@@ -12,4 +12,4 @@
 <br> I approach a problem as a computer scientist by first understanding what is ultimately being expected of a piece of software or hardware. This expectation is then broken down into different stages such as planning, coding, testing, maintaining, etc. Throughout each stage, the knowledge gained from studying computers is applied to the problem present until 
 <br>
 <br>What are my ethical responsibilities to the end user and the organization?
-<br>
+<br> My ethical responsibilities to the end user and the organization include being honest about the state of a program, making genuine efforts to meet their needs, and building software that can be considered both functional and reliable. It is also not enough to simply hand over a piece of software when finished. There must be a commitment in place to provide necessary updates and patches in the event that the software does malfunction so they are not left with a product that does not operate as it should.
